@@ -1,4 +1,5 @@
-# TITANIC DATASET
+# TITANIC KAGGLE CHALLENGE
+The Titanic challenge on kaggle is a competition in which task is to predict the survival or death of a given passenger based on a set of variables describing him such as age, his sex or his passenger class on boat.<br>
 ### 1. Description
 <p> The Titanic Dataset contains passengers details.<br>
  <p> The data has been split into two
