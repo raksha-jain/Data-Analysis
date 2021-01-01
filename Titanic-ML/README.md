@@ -1,7 +1,15 @@
 # TITANIC KAGGLE CHALLENGE
 The Titanic challenge on kaggle is a competition in which task is to predict the survival or death of a given passenger based on a set of variables describing him such as age, his sex or his passenger class on boat.<br>
-### 1. Description
-<p> The Titanic Dataset contains passengers details.<br>
+
+### 1. Contents
+
+<p>  *  Exploratory data analysis<br>
+   *  Data visulization<br>
+   *  Feature engineering<br>
+   *  Modeling<br>
+   *  Modelfine-tuning<br>
+
+### 2. Description
  <p> The data has been split into two
 <p> 1. Training data<br>
    2. Test data
@@ -20,19 +28,3 @@ The Titanic challenge on kaggle is a competition in which task is to predict the
  10.  Fare: Amount of money spent on ticket<br>
  11.  Cabin: Cabin category<br>
  12.  Embarked: Port where passenger embarked (C = Cherbourg, Q = Queenstown, S = Southampton)<br>
-
-### 2. Question
-<p>  What sort of people are more likely to survive?.<br>
-
-### 3. Contents
-
-<p>  *  Import required libraries<br>
-   *  Read and Explore the dataset<br>
-   *  Data Analysis<br>
-   *  Data Visualization<br>
-   *  Data Cleaning<br>
-   *  Model Selection<br>
-
-
-
-Using machine learning we create a predictive model that predicts which passengers survived the Titanic shipwreck using passenger data (ie name, age, gender, socio-economic class etc.)<br>
