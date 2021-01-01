@@ -3,11 +3,12 @@ The Titanic challenge on kaggle is a competition in which task is to predict the
 
 ### 1. Contents
 
-<p>  *  Exploratory data analysis<br>
+<p>*  Exploratory data analysis<br>
    *  Data visulization<br>
    *  Feature engineering<br>
    *  Modeling<br>
-   *  Modelfine-tuning<br>
+   *  Feature selection<br>
+   *  Hyperparameters tuning<br>
 
 ### 2. Description
  <p> The data has been split into two
